@@ -8,7 +8,7 @@
 
    GPL applies
 
-   -->> YOUR FULL NAME HERE  <<--
+   -->> Karol S. Ugorcak  <<--
 */
 
 #include <stdio.h>
