@@ -1,10 +1,13 @@
 /*
+
   6502-mu-code.c
   bho1 12.7.2011
   starting from template generated with ./tableparse.bash
   bho1 27.12.2011
   added adr-modes.h, reengienieering
   GPL
+
+  @Karol Sokuro Ugorcak
 
 */
 #include <stddef.h> // somehow we need NULL
